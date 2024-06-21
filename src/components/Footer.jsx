@@ -2,7 +2,6 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='container-fluid d-flex pt-5 pb-4 bg-dark text-white  justify-content-center aline-items-center'>
       
       <footer className="bg-dark text-white py-4">
       <div className="container">
@@ -39,7 +38,6 @@ const Footer = () => {
         </div>
       </div>
     </footer>
-    </div>
   )
 }
 
